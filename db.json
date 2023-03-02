@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "mail@mail.com",
+      "password": "$2a$10$9lYpNkzm9tEIAFd0/W4UieTZKGjFqLc0PbIHTvtUnpT1HltMyljdi",
+      "name": "rafinha",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Frango Gritador Sonoro",
+      "description": "Halteres, argolas, formatos de animais ou objetos, todo tipo de brinquedos para cachorro filhote desenvolverem a mordida são ótimos. Sem esquecer o fato que para cães adultos a diversão é garantida.Em nossa linha de produtos, há diversas opções de mordedor para cachorro, com certeza, seu amigo peludo vai adorar receber esse presente. Os brinquedos para cães interativos estimulam os instintos e os sentidos naturais do seu amigão.",
+      "price": "R$20,00",
+      "category": "Brinqueros",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Frango-Gritador.jpg"
+    },
+    {
+      "name": "Bola Borracha Cravo",
+      "description": "As emocionantes bolinhas são diversão garantida para seu pet. Buscar, correr e caçar são algumas das brincadeiras fantásticas com esse produto clássico. Esses modelos de brinquedos para pet são bastantes seguros e feitos com variações de materiais, como vinil, borracha e pvc, todos atóxicos.",
+      "price": "R$5,00",
+      "category": "Brinquedo",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Bola-Borracha-Cravo.jpg"
+    },
+    {
+      "name": "Osso Mordedor",
+      "description": "Halteres, argolas, formatos de animais ou objetos, todo tipo de brinquedos para cachorro filhote desenvolverem a mordida são ótimos. Sem esquecer o fato que para cães adultos a diversão é garantida.",
+      "price": "R$8,00",
+      "category": "Brinquedo",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Osso-Mordedor.jpg"
+    },
+    {
+      "name": "Coleira Nylon Fecho Jeans",
+      "description": "Esse modelo de coleira possui um engate rápido que proporciona maior agilidade para colocação, indicada para áreas onde o cão pode ser solto em segurança. São reguláveis o que permite um ajuste perfeito no seu pet. Confeccionadas em nylon com opções diversas de estampas.",
+      "price": "R$18,00",
+      "category": "Coleiras",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-fecho-jeans-coltelli-capa.jpg"
+    },
+    {
+      "name": "Coleira Couro Estampado",
+      "description": "As coleiras de couro estampado são feitas com vaqueta de primeira, somente com esse material é possível aplicar as estampas em alto relevo. São forradas com EVA, material macio e de fácil higienização. Dessa forma obtivemos um produto resistente, confortável e com beleza única. Disponíveis em cinco cores.",
+      "price": "R$20,00",
+      "category": "Coleiras",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-couro-estampado-coltelli-capa.jpg"
+    },
+    {
+      "name": "Peitoral Nylon Jeans",
+      "description": "Esse modelo de peitoral Coltelli há três anos é o campeão de vendas, com acabamento no verdadeiro Brim e opções de cores em sua fita, o produto atrai cada vez mais consumidores por sua leveza e conforto. Deixar essa linha fora de sua loja é perder a nossa melhor opção para seus clientes.",
+      "price": "R$25,00",
+      "category": "Produtos para Pet",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Peitoral-Nylon-Jeans-Capa.jpg"
+    },
+    {
+      "name": "Peitoral Nylon Chocolate",
+      "description": "Disponíveis em três estampas de tecido em algodão, essa combinação rosa e do azul bb com a fita em nylon marrom café, coloca o Peitoral Chocolate no seleto grupo de produtos que há mais de dez anos faz sucesso no ponto de venda. Indispensável!",
+      "price": "R$30,00",
+      "category": "Produtos para Pet",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Peitoral-Nylon-Chocolate-Capa.jpg"
+    },
+    {
+      "name": "Comedouro de Aluminio",
+      "description": "O comedouro de alumínio é indicado por ser mais fácil sua higienização, evitando assim contaminação por fungos e bactérias. Isso ajuda na nutrição de seu pequeno, pois um comedouro que acumula resíduos inibe o apetite.",
+      "price": "R$20,00",
+      "category": "Produtos para Pet",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Comedouro-Aluminio.jpg"
+    }
+  ]
+}
