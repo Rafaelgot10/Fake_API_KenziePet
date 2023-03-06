@@ -17,59 +17,110 @@
   "products": [
     {
       "name": "Frango Gritador Sonoro",
-      "description": "Halteres, argolas, formatos de animais ou objetos, todo tipo de brinquedos para cachorro filhote desenvolverem a mordida são ótimos. Sem esquecer o fato que para cães adultos a diversão é garantida.Em nossa linha de produtos, há diversas opções de mordedor para cachorro, com certeza, seu amigo peludo vai adorar receber esse presente. Os brinquedos para cães interativos estimulam os instintos e os sentidos naturais do seu amigão.",
       "price": "R$20,00",
-      "category": "Brinqueros",
-      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Frango-Gritador.jpg"
+      "category": "Brinquedo",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Frango-Gritador.jpg",
+      "id": 1
     },
     {
       "name": "Bola Borracha Cravo",
-      "description": "As emocionantes bolinhas são diversão garantida para seu pet. Buscar, correr e caçar são algumas das brincadeiras fantásticas com esse produto clássico. Esses modelos de brinquedos para pet são bastantes seguros e feitos com variações de materiais, como vinil, borracha e pvc, todos atóxicos.",
       "price": "R$5,00",
       "category": "Brinquedo",
-      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Bola-Borracha-Cravo.jpg"
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Bola-Borracha-Cravo.jpg",
+      "id": 2
     },
     {
       "name": "Osso Mordedor",
-      "description": "Halteres, argolas, formatos de animais ou objetos, todo tipo de brinquedos para cachorro filhote desenvolverem a mordida são ótimos. Sem esquecer o fato que para cães adultos a diversão é garantida.",
       "price": "R$8,00",
       "category": "Brinquedo",
-      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Osso-Mordedor.jpg"
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Osso-Mordedor.jpg",
+      "id": 3
     },
     {
+      "name": "Halteres Anti Tartaro",
+      "price": "R$10,00",
+      "category": "Brinquedo",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Halteres-Anti-Tartaro.jpg",
+      "id": 4
+    },
+    {
+      "name": "Halteres Anti Tartaro",
+      "price": "R$10,00",
+      "category": "Brinquedo",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Halteres-Anti-Tartaro.jpg",
+      "id": 5
+    },
+
+    {
       "name": "Coleira Nylon Fecho Jeans",
-      "description": "Esse modelo de coleira possui um engate rápido que proporciona maior agilidade para colocação, indicada para áreas onde o cão pode ser solto em segurança. São reguláveis o que permite um ajuste perfeito no seu pet. Confeccionadas em nylon com opções diversas de estampas.",
       "price": "R$18,00",
       "category": "Coleiras",
-      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-fecho-jeans-coltelli-capa.jpg"
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-fecho-jeans-coltelli-capa.jpg",
+      "id": 6
     },
     {
       "name": "Coleira Couro Estampado",
-      "description": "As coleiras de couro estampado são feitas com vaqueta de primeira, somente com esse material é possível aplicar as estampas em alto relevo. São forradas com EVA, material macio e de fácil higienização. Dessa forma obtivemos um produto resistente, confortável e com beleza única. Disponíveis em cinco cores.",
       "price": "R$20,00",
       "category": "Coleiras",
-      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-couro-estampado-coltelli-capa.jpg"
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-couro-estampado-coltelli-capa.jpg",
+      "id": 7
     },
     {
+      "name": "Coleira Nylon Fivelas",
+      "price": "R$15,00",
+      "category": "Coleiras",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-fivelas-coltelli-capa.jpg",
+      "id": 8
+    },
+    {
+      "name": "Coleira Nylon Jeans",
+      "price": "R$10,00",
+      "category": "Coleiras",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-jeans-preto-coltelli.jpg",
+      "id": 9
+    },
+    {
+      "name": "Coleira Nylon Jeans Vermelha",
+      "price": "R$10,00",
+      "category": "Coleiras",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-jeans-vermelho-coltelli.jpg",
+      "id": 10
+    },
+
+    {
       "name": "Peitoral Nylon Jeans",
-      "description": "Esse modelo de peitoral Coltelli há três anos é o campeão de vendas, com acabamento no verdadeiro Brim e opções de cores em sua fita, o produto atrai cada vez mais consumidores por sua leveza e conforto. Deixar essa linha fora de sua loja é perder a nossa melhor opção para seus clientes.",
       "price": "R$25,00",
       "category": "Produtos para Pet",
-      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Peitoral-Nylon-Jeans-Capa.jpg"
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Peitoral-Nylon-Jeans-Capa.jpg",
+      "id": 11
     },
     {
       "name": "Peitoral Nylon Chocolate",
-      "description": "Disponíveis em três estampas de tecido em algodão, essa combinação rosa e do azul bb com a fita em nylon marrom café, coloca o Peitoral Chocolate no seleto grupo de produtos que há mais de dez anos faz sucesso no ponto de venda. Indispensável!",
       "price": "R$30,00",
       "category": "Produtos para Pet",
-      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Peitoral-Nylon-Chocolate-Capa.jpg"
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Peitoral-Nylon-Chocolate-Capa.jpg",
+      "id": 12
     },
     {
       "name": "Comedouro de Aluminio",
-      "description": "O comedouro de alumínio é indicado por ser mais fácil sua higienização, evitando assim contaminação por fungos e bactérias. Isso ajuda na nutrição de seu pequeno, pois um comedouro que acumula resíduos inibe o apetite.",
       "price": "R$20,00",
       "category": "Produtos para Pet",
-      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Comedouro-Aluminio.jpg"
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Comedouro-Aluminio.jpg",
+      "id": 13
+    },
+    {
+      "name": "Arranhador de Gato",
+      "price": "R$15,00",
+      "category": "Produtos para Pet",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Arranhadores.jpg",
+      "id": 14
+    },
+    {
+      "name": "Arranhador de Gato",
+      "price": "R$15,00",
+      "category": "Produtos para Pet",
+      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Arranhadores.jpg",
+      "id": 15
     }
   ]
 }
