@@ -17,35 +17,35 @@
   "products": [
     {
       "name": "Frango Gritador Sonoro",
-      "price": "R$20,00",
+      "price": 20,
       "category": "Brinquedo",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Frango-Gritador.jpg",
       "id": 1
     },
     {
       "name": "Bola Borracha Cravo",
-      "price": "R$5,00",
+      "price": 5,
       "category": "Brinquedo",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Bola-Borracha-Cravo.jpg",
       "id": 2
     },
     {
       "name": "Osso Mordedor",
-      "price": "R$8,00",
+      "price": 8,
       "category": "Brinquedo",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Osso-Mordedor.jpg",
       "id": 3
     },
     {
       "name": "Halteres Anti Tartaro",
-      "price": "R$10,00",
+      "price": 10,
       "category": "Brinquedo",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Halteres-Anti-Tartaro.jpg",
       "id": 4
     },
     {
       "name": "Halteres Anti Tartaro",
-      "price": "R$10,00",
+      "price": 10,
       "category": "Brinquedo",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Halteres-Anti-Tartaro.jpg",
       "id": 5
@@ -53,35 +53,35 @@
 
     {
       "name": "Coleira Nylon Fecho Jeans",
-      "price": "R$18,00",
+      "price": 18,
       "category": "Coleiras",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-fecho-jeans-coltelli-capa.jpg",
       "id": 6
     },
     {
       "name": "Coleira Couro Estampado",
-      "price": "R$20,00",
+      "price": 20,
       "category": "Coleiras",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-couro-estampado-coltelli-capa.jpg",
       "id": 7
     },
     {
       "name": "Coleira Nylon Fivelas",
-      "price": "R$15,00",
+      "price": 15,
       "category": "Coleiras",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-fivelas-coltelli-capa.jpg",
       "id": 8
     },
     {
       "name": "Coleira Nylon Jeans",
-      "price": "R$10,00",
+      "price": 10,
       "category": "Coleiras",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-jeans-preto-coltelli.jpg",
       "id": 9
     },
     {
       "name": "Coleira Nylon Jeans Vermelha",
-      "price": "R$10,00",
+      "price": 10,
       "category": "Coleiras",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-jeans-vermelho-coltelli.jpg",
       "id": 10
@@ -89,21 +89,21 @@
 
     {
       "name": "Peitoral Nylon Jeans",
-      "price": "R$25,00",
+      "price": 25,
       "category": "Produtos para Pet",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Peitoral-Nylon-Jeans-Capa.jpg",
       "id": 11
     },
     {
       "name": "Peitoral Nylon Chocolate",
-      "price": "R$30,00",
+      "price": 30,
       "category": "Produtos para Pet",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Peitoral-Nylon-Chocolate-Capa.jpg",
       "id": 12
     },
     {
       "name": "Comedouro de Aluminio",
-      "price": "R$20,00",
+      "price": 20,
       "category": "Produtos para Pet",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Comedouro-Aluminio.jpg",
       "id": 13
@@ -117,7 +117,7 @@
     },
     {
       "name": "Arranhador de Gato",
-      "price": "R$15,00",
+      "price": 15,
       "category": "Produtos para Pet",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Arranhadores.jpg",
       "id": 15
