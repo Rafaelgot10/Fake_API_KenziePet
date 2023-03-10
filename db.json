@@ -2,7 +2,7 @@
   "users": [
     {
       "email": "admin@mail.com",
-      "password": "@Admin10",
+      "password": "Administrador10.",
       "name": "Administrador",
       "is_admin": true,
       "id": 1
