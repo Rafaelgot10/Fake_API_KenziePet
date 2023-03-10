@@ -6,12 +6,6 @@
       "name": "Kenzinho",
       "is_admin": true,
       "id": 1
-    },
-    {
-      "email": "mail@mail.com",
-      "password": "$2a$10$9lYpNkzm9tEIAFd0/W4UieTZKGjFqLc0PbIHTvtUnpT1HltMyljdi",
-      "name": "rafinha",
-      "id": 2
     }
   ],
   "products": [
