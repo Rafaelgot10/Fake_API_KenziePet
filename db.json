@@ -38,81 +38,82 @@
       "id": 4
     },
     {
-      "name": "Halteres Anti Tartaro",
-      "price": 10,
-      "category": "Brinquedo",
-      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Halteres-Anti-Tartaro.jpg",
-      "id": 5
-    },
-    {
       "name": "Coleira Nylon Fecho Jeans",
       "price": 18,
       "category": "Coleiras",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-fecho-jeans-coltelli-capa.jpg",
-      "id": 6
+      "id": 5
     },
     {
       "name": "Coleira Couro Estampado",
       "price": 20,
       "category": "Coleiras",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-couro-estampado-coltelli-capa.jpg",
-      "id": 7
+      "id": 6
     },
     {
       "name": "Coleira Nylon Fivelas",
       "price": 15,
       "category": "Coleiras",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-fivelas-coltelli-capa.jpg",
-      "id": 8
-    },
-    {
-      "name": "Coleira Nylon Jeans",
-      "price": 10,
-      "category": "Coleiras",
-      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-jeans-preto-coltelli.jpg",
-      "id": 9
+      "id": 7
     },
     {
       "name": "Coleira Nylon Jeans Vermelha",
       "price": 10,
       "category": "Coleiras",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/coleira-nylon-jeans-vermelho-coltelli.jpg",
-      "id": 10
+      "id": 8
     },
     {
       "name": "Peitoral Nylon Jeans",
       "price": 25,
       "category": "Produtos para Pet",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Peitoral-Nylon-Jeans-Capa.jpg",
-      "id": 11
+      "id": 9
     },
     {
       "name": "Peitoral Nylon Chocolate",
       "price": 30,
       "category": "Produtos para Pet",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Peitoral-Nylon-Chocolate-Capa.jpg",
-      "id": 12
+      "id": 10
     },
     {
       "name": "Comedouro de Aluminio",
       "price": 20,
       "category": "Produtos para Pet",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Comedouro-Aluminio.jpg",
-      "id": 13
+      "id": 11
     },
     {
       "name": "Arranhador de Gato",
       "price": "R$15,00",
       "category": "Produtos para Pet",
       "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Arranhadores.jpg",
-      "id": 14
+      "id": 12
+    }
+  ],
+  "companyes": [
+    {
+      "URL": "https://www.clubedosviralatas.org.br/",
+      "img": "https://www.clubedosviralatas.org.br/public/img/logo.png"
     },
     {
-      "name": "Arranhador de Gato",
-      "price": 15,
-      "category": "Produtos para Pet",
-      "img": "https://coltelli.com.br/wp-content/uploads/2021/11/Arranhadores.jpg",
-      "id": 15
+      "URL": "https://www.caosemdono.com.br/",
+      "img": "https://static.wixstatic.com/media/eee5c2_c2db42dfbd6646d3b0a6417facf679ec~mv2.png/v1/fill/w_171,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20laranja_edited_edited_edited.png"
+    },
+    {
+      "URL": "https://http://www.gatopoles.com.br/",
+      "img": "http://www.gatopoles.com.br/imagens/index/logo-gatopoles.png"
+    },
+    {
+      "URL": "https://www.projetomiau.org.br/",
+      "img": "https://www.projetomiau.org.br/wp-content/uploads/2020/08/logotipo-2.png"
+    },
+    {
+      "URL": "https://www.mundogato.org.br/",
+      "img": "https://static.wixstatic.com/media/272521_506422a3e36e49459e9eec11cb4c6d65.png/v1/fill/w_162,h_181,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/272521_506422a3e36e49459e9eec11cb4c6d65.png"
     }
   ]
 }
