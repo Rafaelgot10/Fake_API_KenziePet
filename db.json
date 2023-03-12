@@ -97,23 +97,28 @@
   "companyes": [
     {
       "URL": "https://www.clubedosviralatas.org.br/",
-      "img": "https://www.clubedosviralatas.org.br/public/img/logo.png"
+      "img": "https://www.clubedosviralatas.org.br/public/img/logo.png",
+      "id": 1
     },
     {
       "URL": "https://www.caosemdono.com.br/",
-      "img": "https://static.wixstatic.com/media/eee5c2_c2db42dfbd6646d3b0a6417facf679ec~mv2.png/v1/fill/w_171,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20laranja_edited_edited_edited.png"
+      "img": "https://static.wixstatic.com/media/eee5c2_c2db42dfbd6646d3b0a6417facf679ec~mv2.png/v1/fill/w_171,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20laranja_edited_edited_edited.png",
+      "id": 2
     },
     {
       "URL": "https://http://www.gatopoles.com.br/",
-      "img": "http://www.gatopoles.com.br/imagens/index/logo-gatopoles.png"
+      "img": "http://www.gatopoles.com.br/imagens/index/logo-gatopoles.png",
+      "id": 3
     },
     {
       "URL": "https://www.projetomiau.org.br/",
-      "img": "https://www.projetomiau.org.br/wp-content/uploads/2020/08/logotipo-2.png"
+      "img": "https://www.projetomiau.org.br/wp-content/uploads/2020/08/logotipo-2.png",
+      "id": 4
     },
     {
       "URL": "https://www.mundogato.org.br/",
-      "img": "https://static.wixstatic.com/media/272521_506422a3e36e49459e9eec11cb4c6d65.png/v1/fill/w_162,h_181,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/272521_506422a3e36e49459e9eec11cb4c6d65.png"
+      "img": "https://static.wixstatic.com/media/272521_506422a3e36e49459e9eec11cb4c6d65.png/v1/fill/w_162,h_181,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/272521_506422a3e36e49459e9eec11cb4c6d65.png",
+      "id": 5
     }
   ]
 }
